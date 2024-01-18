@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Navbar = () => {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-0">
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark ">
       <div className="container">
         <a className="navbar-brand" href="#">Star Wars Store</a>
         <div className="collapse navbar-collapse">
